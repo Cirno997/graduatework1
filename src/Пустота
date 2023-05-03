@@ -1,0 +1,48 @@
+<header class="main-head">
+        <a href="/" class="logo" title="Логотип">
+            <img src="img/favicon/android-chrome-192x192.png" alt="Членотип">
+        </a>
+        <center><h1>Webpack</h1></center>
+        
+
+<h2>MontserratMontserratMontserratMontserratMontserrat</h2>
+
+
+    </header>
+
+    <a href="/" class="logo" title="Логотип">
+        <img src="img/favicon/android-chrome-192x192.png" width="100" alt="Членотип">
+
+        
+        <ul style="border:1px solid black; padding:0">
+            <li><img src="img/logo.png" alt="" width="150"></li>
+            <li style="width:100px;height:60px">Инлайн<br>Блок 100x100</li>
+            <li style="width:100px;height:60px">Инлайн<br>Блок 60x60</li>
+            <li style="width:100px;height:60px">Инлайн<br>Блок 100x60</li>
+            <li style="width:100px;height:60px">Инлайн<br>Блок 60x100</li>
+          </ul>
+_____________________________________________________________________
+<header class="main-head">
+    <div class="mnu-line clearfix">
+                <style>
+                    li {
+                      display: inline-block;
+                      list-style: none;
+                      border: 1px solid rgb(46, 189, 17);
+                      vertical-align: middle;
+                    }
+                    </style>
+                    
+                <centr><ul style="border:1px solid black; padding:0">
+                      <li><img src="img/logo.png" alt="" width="150"></li>
+                      <centr><li style="width:100px;height:60px">Инлайн<br>Блок 100x100</li></centr>
+                      <li style="width:100px;height:60px">Инлайн<br>Блок 60x60</li>
+                      <li style="width:100px;height:60px">Инлайн<br>Блок 100x60</li>
+                      <li style="width:100px;height:60px">Инлайн<br>Блок 60x100</li>
+                    </ul></centr>
+            </a>
+        
+    </div>
+</div>
+</div>
+</header>
